@@ -36,8 +36,8 @@
     "@backstage/plugin-techdocs-backend": "^1.10.0",
     "@backstage/plugin-techdocs-node": "^1.12.0",
     "@backstage/plugin-todo-backend": "^0.3.12",
-    "@frontside/backstage-plugin-graphql-backend": "^0.1.2",
-    "@frontside/backstage-plugin-graphql-backend-module-catalog": "^0.2.0",
+    "@frontside/backstage-plugin-graphql-backend": "^0.1.8",
+    "@frontside/backstage-plugin-graphql-backend-module-catalog": "^0.3.0",
     "app": "^0.0.0",
     "better-sqlite3": "^9.0.0"
   },
